@@ -7,5 +7,6 @@ namespace CodeAlong_GitDemo
     internal class Person
     {
         public string Name { get; set; }
+        public int Age { get; set; }
     }
 }
