@@ -6,6 +6,7 @@ namespace CodeAlong_GitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hej");
+            CoolFeature.Run();
         }
     }
 }
